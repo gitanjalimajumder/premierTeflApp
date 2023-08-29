@@ -1,10 +1,10 @@
 {
   "name": "moodlemobile",
-  "version": "4.3.0",
-  "description": "The official app for Moodle.",
+  "version": "4.3.1",
+  "description": "Learn Premier TEFL courses online",
   "author": {
-    "name": "Moodle Pty Ltd.",
-    "email": "mobile@moodle.com"
+    "name": "TEFL Institute of Ireland",
+    "email": "hello@tefl.ie"
   },
   "repository": {
     "type": "git",
